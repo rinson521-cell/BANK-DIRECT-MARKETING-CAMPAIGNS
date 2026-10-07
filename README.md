@@ -35,7 +35,12 @@ The main objective of this project is to identify meaningful patterns and relati
 | **Target Variable** | Term Deposit Subscription |
 | **Project Year** | 2025–2026 |
 
+## 📂 Sample Data Files
 
+The dataset and Jupyter Notebook are included to support reproducibility and allow users to review the analysis process and results.
+- `bank-direct-marketing-campaigns.xls` – Project dataset
+- `Bank_Direct_Marketing_Analysis.ipynb` – Analysis notebook
+- 
 ## 🛠️ Tools & Technologies
 
 | **Tool / Library** | **Purpose** |
@@ -297,11 +302,11 @@ Bank-Direct-Marketing/
 
 
 
-## 👤 Author
+ 👤 Author
 
-# Honey Stanly
+ Honey Stanly
 
- # 📊 Analysis and Prediction of Bank Direct Marketing Campaign Success
+  📊 Analysis and Prediction of Bank Direct Marketing Campaign Success
 
 Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
