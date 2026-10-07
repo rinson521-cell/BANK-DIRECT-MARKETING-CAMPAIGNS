@@ -66,7 +66,7 @@ The dataset contains:
 - **20 columns**
 - **Target variable:** Term Deposit Subscription
 
-### Main Data Categories
+## Main Data Categories
 
 | Category | Examples |
 |---|---|
@@ -87,45 +87,45 @@ Project Overview → Data Description → Project Workflow → Tools & Technolog
 
 ## 🚀 Project Phases
 
-### Phase 1: Data Collection & Understanding
+ Phase 1: Data Collection & Understanding
 - Load the Bank Direct Marketing Campaigns dataset.
 - Understand the dataset structure, variables, and target variable.
 - Review data types, summary statistics, and data quality.
 
-### Phase 2: Data Cleaning & Preprocessing
+ Phase 2: Data Cleaning & Preprocessing
 - Check for missing values and duplicate records.
 - Handle unknown or inconsistent values.
 - Rename columns for better readability.
 - Prepare the dataset for analysis.
 
-### Phase 3: Exploratory Data Analysis
+ Phase 3: Exploratory Data Analysis
 - Analyze customer demographics and financial characteristics.
 - Examine subscription rates across different customer segments.
 - Study campaign contact methods, frequency, and timing.
 - Analyze previous campaign outcomes.
 
-### Phase 4: Statistical & Correlation Analysis
+ Phase 4: Statistical & Correlation Analysis
 - Examine relationships between important variables.
 - Analyze correlations among economic indicators.
 - Identify factors associated with subscription outcomes.
 
-### Phase 5: Data Visualization
+ Phase 5: Data Visualization
 - Create meaningful charts using Matplotlib, Seaborn, and Plotly.
 - Use visualizations to identify trends, patterns, and differences.
 - Present important findings clearly.
 
-### Phase 6: Key Insights
+ Phase 6: Key Insights
 - Identify high-performing customer segments.
 - Evaluate campaign effectiveness.
 - Identify patterns related to contact frequency and timing.
 - Highlight important economic and campaign factors.
 
-### Phase 7: Business Recommendations
+ Phase 7: Business Recommendations
 - Suggest better customer targeting strategies.
 - Recommend effective campaign timing and contact methods.
 - Identify opportunities to improve campaign efficiency.
 
-### Phase 8: Conclusion
+ Phase 8: Conclusion
 - Summarize the major findings.
 - Highlight the business value of the analysis.
 - Identify areas for further analysis and validation.
@@ -134,7 +134,7 @@ Project Overview → Data Description → Project Workflow → Tools & Technolog
 
 Exploratory Data Analysis (EDA) was performed to understand customer characteristics, campaign performance, subscription patterns, and relationships between important variables.
 
-### Key Areas Analyzed
+## Key Areas Analyzed
 
 - **Customer Demographics:** Age, job, marital status, and education.
 - **Financial & Loan Information:** Default status, housing loan, and personal loan.
@@ -144,9 +144,9 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 - **Economic Factors:** Employment variation rate, consumer price index, consumer confidence index, Euribor rate, and number of employees.
 - **Correlation Analysis:** Relationships between selected numerical and economic variables.
 
-### Analysis Techniques
+## Analysis Techniques
 
-- Univariate Analysis
+-Univariate Analysis
 - Bivariate Analysis
 - Multivariate Analysis
 - GroupBy Analysis
@@ -155,7 +155,9 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 - Correlation Analysis
 - Data Visualization
 
-### Key Findings
+
+
+## Key Findings
 
 - Overall term deposit subscription rate was approximately **11.3%**.
 - Customers with a **successful previous campaign outcome** showed higher subscription rates.
@@ -166,7 +168,7 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 - **March, September, October, and December** showed stronger subscription results.
 - Economic indicators showed relationships that may influence subscription patterns.
 
-> **Overall Insight:** Effective customer targeting, contact strategy, and campaign timing can be more valuable than simply increasing the number of customer contacts.
+> ## Overall Insight:** Effective customer targeting, contact strategy, and campaign timing can be more valuable than simply increasing the number of customer contacts.
 
 🔍 Exploratory Data Analysis
 
@@ -187,16 +189,17 @@ Key Areas Analyzed
 # Economic Factors: Employment variation rate, consumer price index, consumer confidence index, Euribor rate, and number of employees.
 
 # Correlation Analysis: Relationships between selected numerical and economic variables.
-# | Analysis | Examples |
-|---|---|
-| **Univariate** | Age, Job, Education, Subscription |
-| **Bivariate** | Age vs Subscription, Job vs Subscription |
-| **Multivariate** | Age + Job + Subscription |
-| **GroupBy** | Subscription Rate by Job, Month, Contact Method |
-| **Pivot Table** | Job × Subscription, Education × Subscription |
-| **Statistical** | Mean, Median, Std, Min, Max |
-| **Correlation** | Economic Indicators, Campaign Contacts |
-| **Visualization** | Distribution, Conversion, Monthly Trends, Heatmap |
+| **Analysis** | **Description** | **Variables Used** |
+|---|---|---|
+| **Univariate Analysis** | Analyzes one variable to understand its distribution or frequency. | Age, Job, Education, Subscription |
+| **Bivariate Analysis** | Analyzes the relationship between two variables. | Age vs Subscription, Job vs Subscription |
+| **Multivariate Analysis** | Analyzes multiple variables together to identify patterns. | Age + Job + Subscription |
+| **GroupBy Analysis** | Groups data by categories and calculates subscription rates. | Job, Month, Contact Method |
+| **Pivot Table Analysis** | Summarizes relationships between categorical variables. | Job × Subscription, Education × Subscription |
+| **Statistical Analysis** | Summarizes numerical data using statistical measures. | Age, Campaign, Previous Contacts |
+| **Correlation Analysis** | Measures relationships between numerical variables. | Economic Indicators, Campaign Contacts |
+| **Data Visualization** | Presents patterns and trends using charts and graphs. | Age, Job, Education, Subscription, Month |
+
 
 ## 🔑 Key Insights
 
