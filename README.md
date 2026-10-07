@@ -151,7 +151,7 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 
 ## Analysis Techniques
 
--Univariate Analysis
+- Univariate Analysis
 - Bivariate Analysis
 - Multivariate Analysis
 - GroupBy Analysis
@@ -244,25 +244,25 @@ The following visualizations were selected to highlight important customer, camp
 
 - ## 📈  Visualisations
 - 
-# Age Distribution
+ Age Distribution
 ![Age Distribution](visualizations/age_distribution.png)
 
-#Subscription Rate by Education
+Subscription Rate by Education
 ![Subscription by Education](visualizations/subscription_by_education.png)
 
-# Job-wise Subscription Rate
+Job-wise Subscription Rate
 ![Job Subscription](visualizations/job_subscription.png)
 
-# Previous Campaign Result
+Previous Campaign Result
 ![Previous Campaign](visualizations/previous_campaign.png)
 
-# Contact Method Comparison
+ Contact Method Comparison
 ![Contact Method](visualizations/contact_method.png)
 
-# Monthly Subscription Rate
+Monthly Subscription Rate
 ![Monthly Subscription](visualizations/monthly_subscription.png)
 
-# Economic Correlation Heatmap
+ Economic Correlation Heatmap
 ![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
 ## 📌 Data & Analysis Considerations
