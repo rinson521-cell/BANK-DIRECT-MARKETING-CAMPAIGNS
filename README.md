@@ -168,7 +168,7 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 - **March, September, October, and December** showed stronger subscription results.
 - Economic indicators showed relationships that may influence subscription patterns.
 
-> ## Overall Insight:** Effective customer targeting, contact strategy, and campaign timing can be more valuable than simply increasing the number of customer contacts.
+> ** Overall Insight:** Effective customer targeting, contact strategy, and campaign timing can be more valuable than simply increasing the number of customer contacts.
 
 🔍 Exploratory Data Analysis
 
@@ -176,19 +176,20 @@ Exploratory Data Analysis (EDA) was performed to understand customer characteris
 
 Key Areas Analyzed
 
-# Customer Demographics: Age, job, marital status, and education.
+ Customer Demographics: Age, job, marital status, and education.
 
-# Financial & Loan Information: Default status, housing loan, and personal loan.
+ Financial & Loan Information: Default status, housing loan, and personal loan.
 
-# Campaign Performance: Contact method, number of contacts, campaign month, and day.
+ Campaign Performance: Contact method, number of contacts, campaign month, and day.
 
-# Previous Campaign Outcomes: Previous contacts and previous campaign results.
+Previous Campaign Outcomes: Previous contacts and previous campaign results.
 
-# Subscription Patterns: Term deposit subscription rates across different customer segments.
+ Subscription Patterns: Term deposit subscription rates across different customer segments.
 
-# Economic Factors: Employment variation rate, consumer price index, consumer confidence index, Euribor rate, and number of employees.
+ Economic Factors: Employment variation rate, consumer price index, consumer confidence index, Euribor rate, and number of employees.
 
-# Correlation Analysis: Relationships between selected numerical and economic variables.
+ Correlation Analysis: Relationships between selected numerical and economic variables.
+ 
 | **Analysis** | **Description** | **Variables Used** |
 |---|---|---|
 | **Univariate Analysis** | Analyzes one variable to understand its distribution or frequency. | Age, Job, Education, Subscription |
@@ -279,7 +280,7 @@ The following visualizations were selected to highlight important customer, camp
 - Build interactive dashboards for better reporting.
 - Use additional data to improve insights.
 
-- ```text
+
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
@@ -292,18 +293,18 @@ Bank-Direct-Marketing/
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
     └── 📊 correlation_heatmap.png
-```
+
 
 
 ## 👤 Author
 
-**Honey Stanly**
+# Honey Stanly
 
-### 📊 Analysis and Prediction of Bank Direct Marketing Campaign Success
+ # 📊 Analysis and Prediction of Bank Direct Marketing Campaign Success
 
 Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
----
 
-⭐ Thank you for visiting this project repository!
+
+         ⭐ Thank you for visiting this project repository!
 
