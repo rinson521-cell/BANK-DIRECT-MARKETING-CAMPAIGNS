@@ -272,19 +272,21 @@ The following visualizations were selected to highlight important customer, camp
 
 ##📁 Repository Structure
 
+
+- ```text
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
-├── 📄 bank-direct-marketing-campaigns.xls
+├── 📄 bank-direct-marketing-campaigns.csv
 ├── 📄 README.md
-└── 📁 visualizations/
+└── 📁 visualizations
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
     ├── 📊 job_subscription.png
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
     └── 📊 correlation_heatmap.png
-
+```
 
 
  👤 Author
