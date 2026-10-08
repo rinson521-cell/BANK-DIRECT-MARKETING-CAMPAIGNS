@@ -243,7 +243,6 @@ The following visualizations were selected to highlight important customer, camp
 | **Subscription Distribution** | Displays the overall proportion of customers who subscribed and did not subscribe. |
 
 - ## 📈  Visualisations
-- 
 ![Age Distribution](visualizations/age_distribution.png)
 
 ![Subscription by Age](visualizations/subscription_by_age.png)
@@ -254,7 +253,7 @@ The following visualizations were selected to highlight important customer, camp
 
 ![Monthly Subscription](visualizations/monthly_subscription.png)
 
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Economic Correlation Heatmap](visualizations/economic_correlation_heatmap.png)
 
 ## 📌 Data & Analysis Considerations
 
@@ -277,11 +276,12 @@ The following visualizations were selected to highlight important customer, camp
 ##📁 Repository Structure
 
 
- ```text
+- ```text
+
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
-├── 📄 bank-direct-marketing-campaigns.xls
+├── 📄 bank-direct-marketing-campaigns.csv
 ├── 📄 README.md
 └── 📁 visualizations
     ├── 📊 age_distribution.png
@@ -289,9 +289,8 @@ Bank-Direct-Marketing/
     ├── 📊 job_subscription.png
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
-    └── 📊 correlation_heatmap.png
-```
-
+    └── 📊 economic_correlation_heatmap.png
+    ```
 
  👤 Author
 
