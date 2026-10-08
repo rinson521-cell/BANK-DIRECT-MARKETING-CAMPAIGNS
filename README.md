@@ -244,25 +244,11 @@ The following visualizations were selected to highlight important customer, camp
 
 - ## 📈  Visualisations
 - 
-- ### Age Distribution
 ![Age Distribution](visualizations/age_distribution.png)
-
-### Subscription Rate by Age Group
 ![Subscription by Age](visualizations/subscription_by_age.png)
-
-### Subscription Rate by Education
-![Subscription by Education](visualizations/subscription_by_education.png)
-
-### Previous Campaign Result
-![Previous Campaign](visualizations/previous_campaign.png)
-
-### Contact Method Comparison
+![Job Subscription](visualizations/job_subscription.png)
 ![Contact Method](visualizations/contact_method.png)
-
-### Monthly Subscription Rate
 ![Monthly Subscription](visualizations/monthly_subscription.png)
-
-### Economic Correlation Heatmap
 ![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
 
@@ -286,20 +272,18 @@ The following visualizations were selected to highlight important customer, camp
 
 ##📁 Repository Structure
 
-```text
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
-├── 📄 bank-direct-marketing-campaigns.csv
+├── 📄 bank-direct-marketing-campaigns.xls
 ├── 📄 README.md
-└── 📁 visualizations
+└── 📁 visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
     ├── 📊 job_subscription.png
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
     └── 📊 correlation_heatmap.png
-```
 
 
 
