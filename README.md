@@ -245,12 +245,16 @@ The following visualizations were selected to highlight important customer, camp
 - ## 📈  Visualisations
 - 
 ![Age Distribution](visualizations/age_distribution.png)
-![Subscription by Age](visualizations/subscription_by_age.png)
-![Job Subscription](visualizations/job_subscription.png)
-![Contact Method](visualizations/contact_method.png)
-![Monthly Subscription](visualizations/monthly_subscription.png)
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
+![Subscription by Age](visualizations/subscription_by_age.png)
+
+![Job Subscription](visualizations/job_subscription.png)
+
+![Contact Method](visualizations/contact_method.png)
+
+![Monthly Subscription](visualizations/monthly_subscription.png)
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
 ## 📌 Data & Analysis Considerations
 
@@ -273,11 +277,11 @@ The following visualizations were selected to highlight important customer, camp
 ##📁 Repository Structure
 
 
-- ```text
+ ```text
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
-├── 📄 bank-direct-marketing-campaigns.csv
+├── 📄 bank-direct-marketing-campaigns.xls
 ├── 📄 README.md
 └── 📁 visualizations
     ├── 📊 age_distribution.png
@@ -295,9 +299,9 @@ Bank-Direct-Marketing/
 
   📊 Analysis and Prediction of Bank Direct Marketing Campaign Success
 
-Data Analytics Enthusiast | Customer Support SME | Operations Analyst
+  Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
 
 
-         ⭐ Thank you for visiting this project repository!
+           ⭐ Thank you for visiting this project repository!
 
