@@ -272,26 +272,23 @@ The following visualizations were selected to highlight important customer, camp
 - Analyze campaign trends over time.
 - Build interactive dashboards for better reporting.
 - Use additional data to improve insights.
+## 📁 Repository Structure
 
-##📁 Repository Structure
-
-
-- ```text
-
+```text
 Bank-Direct-Marketing/
 │
 ├── 📓 Bank_Direct_Marketing_Analysis.ipynb
 ├── 📄 bank-direct-marketing-campaigns.csv
 ├── 📄 README.md
-└── 📁 visualizations
+│
+└── 📁 visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
     ├── 📊 job_subscription.png
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
     └── 📊 economic_correlation_heatmap.png
-    ```
-
+```
  👤 Author
 
  Honey Stanly
