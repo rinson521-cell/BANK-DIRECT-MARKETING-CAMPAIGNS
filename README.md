@@ -38,7 +38,7 @@ The main objective of this project is to identify meaningful patterns and relati
 ## 📂 Sample Data Files
 
 The dataset and Jupyter Notebook are included to support reproducibility and allow users to review the analysis process and results.
-- `bank-direct-marketing-campaigns.xls` – Project dataset
+- `bank-direct-marketing-campaigns.csv` – Project dataset
 - `Bank_Direct_Marketing_Analysis.ipynb` – Analysis notebook
 - 
 ## 🛠️ Tools & Technologies
